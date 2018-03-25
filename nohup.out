@@ -1,0 +1,2363 @@
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+{
+  data : "./aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+./aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "./aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+running "find" on each class directory, and concatenate all those filenames into a single file containing all image paths for a given class	
+{
+  data : "./aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+now combine all the files to a single large file	
+{
+  data : "./aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+load the large concatenated list of sample paths to self.imagePath	
+ [..............................................]                                ETA: 0ms | Step: 0ms 0/19 19 samples found.	
+Updating classList and imageClass appropriately	
+ [==========>...................................]                                ETA: 0ms | Step: 0ms 1/4  [======================>.......................]                                ETA: 6ms | Step: 3ms 2/4  [=================================>............]                                ETA: 4ms | Step: 4ms 3/4  [=============================================>]                                Tot: 20ms | Step: 5ms 4/4 
+Cleaning up temporary files	
+Splitting training and test sets to a ratio of 0/100	
+nImgs: 	19	
+./aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/aligned-images/cache.t7	
+Loading metadata from cache.	
+If your dataset has changed, delete the cache file.	
+nImgs: 	19	
+./aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/aligned-images/cache.t7	
+Loading metadata from cache.	
+If your dataset has changed, delete the cache file.	
+nImgs: 	19	
+{
+  data : "./aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "./aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+./aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/aligned-images/cache.t7	
+Loading metadata from cache.	
+If your dataset has changed, delete the cache file.	
+nImgs: 	19	
+./aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/aligned-images/cache.t7	
+Loading metadata from cache.	
+If your dataset has changed, delete the cache file.	
+nImgs: 	19	
+Represent: 19/19	
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+Represent: 19/19	
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+Represent: 19/19	
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+Represent: 19/19	
+Represent: 19/19	
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+Loading embeddings.
+Training for 4 classes.
+Saving classifier to '/home/g33kyaditya/MinorProject/generated-embeddings//classifier.pkl'
+Loading embeddings.
+Training for 4 classes.
+Saving classifier to '/home/g33kyaditya/MinorProject/generated-embeddings//classifier.pkl'
+Loading embeddings.
+Training for 4 classes.
+Saving classifier to '/home/g33kyaditya/MinorProject/generated-embeddings//classifier.pkl'
+Loading embeddings.
+Training for 4 classes.
+Saving classifier to '/home/g33kyaditya/MinorProject/generated-embeddings//classifier.pkl'
+Loading embeddings.
+Training for 4 classes.
+Saving classifier to '/home/g33kyaditya/MinorProject/generated-embeddings//classifier.pkl'
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_lwb4YxI.jpg ===
+Predict 3 with 0.87 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_aurGHq8.jpg ===
+Predict 3 with 0.87 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_Q3piF9W.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/arsh.jpg ===
+Predict 4 with 0.85 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/arsh_Kjvc7sY.jpg ===
+Predict 4 with 0.85 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_9pSJ73D.jpg ===
+Predict 3 with 0.87 confidence.
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_XP5GEEz.jpg ===
+Predict 3 with 0.87 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_qR5U3le.jpg ===
+Predict 3 with 0.87 confidence.
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_P3cp6a9.jpg ===
+Predict 3 with 0.87 confidence.
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_YEhS8Tu.jpg ===
+Predict 3 with 0.87 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_C2uJiO1.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_9ahAGah.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_LM96IdQ.jpg ===
+Predict 3 with 0.87 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_kHUOuPy.jpg ===
+Predict 3 with 0.87 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/arsh_L7Q2d1M.jpg ===
+Predict 4 with 0.85 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_ieZBF6s.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_c3IUUmP.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_PYedwdl.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_BXS4BmC.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_nAZlDce.jpg ===
+Predict 1 with 0.82 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/pp.jpeg ===
+Predict 3 with 0.66 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_E8eQATe.jpg ===
+Predict 3 with 0.87 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/IMG_20171213_201032390_4cdTmku.jpg ===
+Predict 3 with 0.87 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/arsh_XlX3Nt9.jpg ===
+Predict 4 with 0.85 confidence.
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_Mgns2ue.jpg ===
+Predict 1 with 0.82 confidence.
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_Sj84W8M.jpg ===
+Predict 1 with 0.82 confidence.
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_V1yHFnf.jpg ===
+Predict 1 with 0.82 confidence.
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/03_xpMr41f.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/02_sLyYXp0.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/05_5ZTCiIK.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/01_IYOmL7n.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/04_Hcj9oJn.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/04_Hcj9oJn.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/03_xpMr41f.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/01_IYOmL7n.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/02_sLyYXp0.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/05_5ZTCiIK.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/05_5ZTCiIK.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/03_xpMr41f.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/01_IYOmL7n.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/02_sLyYXp0.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/04_Hcj9oJn.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/03_xpMr41f.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/01_IYOmL7n.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/05_5ZTCiIK.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/04_Hcj9oJn.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/02_sLyYXp0.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+=== /home/g33kyaditya/MinorProject/training_images/5/03_R3ACOur.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/03_yJ35pdN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/03_xpMr41f.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/04_k0p0EJ6.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/03_SwKTGbs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/01_qxSfJyu.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/05_CeRWbS5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/04_Hcj9oJn.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/03_mOw0Wzk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/05_5ZTCiIK.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/01_vAt3wKs.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/05_hNlLQNB.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/01_Lw2bT5E.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/01_V7Dm8Jk.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/05_a3k5VTb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/2/04_SlR8Pt5.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/05_hwLFFE8.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/04_3ewCS1s.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/01_IYOmL7n.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/02_jtzRQHx.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/01_IGW7CPS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/02_vVBtmOt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/04_IrnYljb.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/03_0E2H4eQ.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/03_jvVmVBt.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/02_lKjwtC3.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/8/02_sLyYXp0.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/05_QVaEawr.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/05_AW12lt9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/05_ioVN7ZO.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/3/03_bugPlnS.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/4/04_ryzIGtd.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/02_tz5QB2X.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/5/02_SWwbeW9.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/6/01_aHwxX6v.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/02_9KxbxxR.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/04_b2AsDDM.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/7/04_68DVtPN.jpg ===
+=== /home/g33kyaditya/MinorProject/training_images/1/01_cIFjxA9.jpg ===
+{
+  data : "~MinorProject/aligned-images"
+  imgDim : 96
+  model : "/home/g33kyaditya/MinorProject/openface/models/openface/nn4.small2.v1.t7"
+  device : 1
+  outDir : "/home/g33kyaditya/MinorProject/generated-embeddings"
+  cache : false
+  cuda : false
+  batchSize : 50
+}
+~MinorProject/aligned-images	
+cache lotation: 	/home/g33kyaditya/MinorProject/~MinorProject/aligned-images/cache.t7	
+Creating metadata for cache.	
+{
+  sampleSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+  split : 0
+  verbose : true
+  paths : 
+    {
+      1 : "~MinorProject/aligned-images"
+    }
+  samplingMode : "balanced"
+  loadSize : 
+    {
+      1 : 3
+      2 : 96
+      3 : 96
+    }
+}
+/home/g33kyaditya/torch/install/bin/luajit: ...aditya/MinorProject/openface/batch-represent/dataset.lua:106: argument 1: '~MinorProject/aligned-images' not a directory
+stack traceback:
+	[C]: in function 'error'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/utils.lua:432: in function 'assert_arg'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:29: in function 'assert_dir'
+	/home/g33kyaditya/torch/install/share/lua/5.1/pl/dir.lua:106: in function 'getdirectories'
+	...aditya/MinorProject/openface/batch-represent/dataset.lua:106: in function '__init'
+	...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:91: in function <...e/g33kyaditya/torch/install/share/lua/5.1/torch/init.lua:87>
+	[C]: in function 'dataLoader'
+	...inorProject/openface/batch-represent/batch-represent.lua:19: in function 'batchRepresent'
+	...3kyaditya/MinorProject/openface/batch-represent/main.lua:42: in main chunk
+	[C]: in function 'dofile'
+	...itya/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405780
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+Loading embeddings.
+Traceback (most recent call last):
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 298, in <module>
+    train(args)
+  File "/home/g33kyaditya/MinorProject/openface/demos/classifier.py", line 110, in train
+    labels = pd.read_csv(fname, header=None).as_matrix()[:, 1]
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 498, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 275, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 590, in __init__
+    self._make_engine(self.engine)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 731, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/pandas/io/parsers.py", line 1103, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 518, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:5030)
+ValueError: No columns to parse from file
+/home/g33kyaditya/MinorProject/env/lib/python2.7/site-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+
+=== /home/g33kyaditya/MinorProject/media/images/me_DkQL21k.jpg ===
+Predict 1 with 0.82 confidence.
